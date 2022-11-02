@@ -32,7 +32,7 @@ jobs:
           #- unit-diagnostic-trainingwfcmd
           - unit-nonredundant-noclientbuild-noshed-gx-2105
           - unit-nonredundant-noclientbuild-noshed-gx-2109
-          - unit-nonredundant-noclientbuild-noshed-gx-dev
+          - unit-nonredundant-noclientbuild-noshed-gx-dev-diagnostic
           - unit-nonredundant-noclientbuild-noshed-nogx
           - unit-diagnostic-serveclientcmd
     services:
